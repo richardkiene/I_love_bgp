@@ -1,0 +1,17 @@
+center
+
+%BGP feeds the OS routes
+
+[foo@bar /]# netstat -nr
+
+Routing Table: IPv4
+  Destination           Gateway           Flags  Ref     Use     Interface
+-------------------- -------------------- ----- ----- ---------- ---------
+default              192.168.9.1          UG       10    2818423 net0
+127.0.0.1            127.0.0.1            UH        2         82 lo0
+192.168.9.0          192.168.9.9          U         4     136794 net0
+
+Routing Table: IPv6
+  Destination/Mask            Gateway                   Flags Ref   Use    If
+--------------------------- --------------------------- ----- --- ------- -----
+::1                         ::1                         UH      2      10 lo0

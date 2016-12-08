@@ -5,5 +5,3 @@ center
 * Ability to influence the entire internet
 
 * Geographic redundancy
-
-* Self healing
