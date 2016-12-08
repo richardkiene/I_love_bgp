@@ -1,0 +1,23 @@
+center
+
+% BGP route selection algorithm
+
+* Prefer the route with the (highest/lowest/emoji) LOCAL_PREF.
+
+* Prefer originated routes.
+
+* Prefer shortest AS_PATH
+
+* Prefer lowest ORIGIN value (iBGP = 0, eBGP = 1, incomplete = 2)
+
+* Prefer lowest MULTI_EXIT_DISC (breaks a tie on mostly equal peers)
+
+* Prefer eBGP over iBGP routes
+
+* Prefer iBGP neighbor with the lowest metric
+
+* Prefer the oldest route
+
+* Prefer neighbor with the lowest router ID.
+
+* Prefer neighbor with lowest IP address.

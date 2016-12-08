@@ -1,0 +1,15 @@
+center
+
+% Important definitions
+
+* AS_PATH:
+
+* LOCAL_PREF:
+
+* ORIGIN:
+
+* MULTI_EXIT_DISC:
+
+* iBGP:
+
+* eBGP:
