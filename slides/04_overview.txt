@@ -1,0 +1,5 @@
+center
+
+% What does it do?
+
+* Broadly, BGP is what gives Internet traffic a path to a destination

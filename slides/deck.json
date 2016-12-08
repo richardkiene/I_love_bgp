@@ -1,0 +1,12 @@
+{
+  "header": {
+    "center": "I. Love. BGP"
+  },
+  "footer": {
+    "left": "Richard Kiene",
+    "right": "\u2295 Joyent"
+  },
+  "fade": {
+    "delay": 15
+  }
+}

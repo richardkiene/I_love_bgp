@@ -1,0 +1,7 @@
+center
+
+% As soon as packets leave your private network, BGP is making the decisions
+
+* Routing protocol
+
+* Think of it like asking for information in a small town

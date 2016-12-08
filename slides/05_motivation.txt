@@ -1,0 +1,7 @@
+center
+
+% BGP was created for NSFNET backbone phase II
+
+* Cooperative agreement to connect regional networks and super-computers
+
+* EGP existed (RFC 827, 888, 904), but it was far from ideal

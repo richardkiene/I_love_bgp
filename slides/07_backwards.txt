@@ -1,0 +1,17 @@
+center
+
+% Backwards design process
+
+        Napkin
+          +
+          |
+          |
+          |
+          v
+    Implementation
+          +
+          |
+          |
+          |
+          v
+         RFC

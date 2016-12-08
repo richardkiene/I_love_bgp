@@ -1,0 +1,5 @@
+center
+
+% Prefixes can be announced in multiple locations
+
+* Ability to influence the entire internet

@@ -1,0 +1,7 @@
+center
+
+% Joining the BGP party
+
+* Autonomous System Number (ASN or AS number)
+
+* Optionally, a prefix to advertise

@@ -1,0 +1,15 @@
+center vcenter
+      ██████╗  ██████╗ ██████╗ 
+      ██╔══██╗██╔════╝ ██╔══██╗
+      ██████╔╝██║  ███╗██████╔╝
+      ██╔══██╗██║   ██║██╔═══╝ 
+      ██████╔╝╚██████╔╝██║     
+      ╚═════╝  ╚═════╝ ╚═╝     
+                               
+% I. Love. BGP.:
+% A love story that ends in tragedy
+
+
+          Richard Kiene
+
+ richard.kiene@joyent.com  @shmeeny

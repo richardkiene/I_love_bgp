@@ -1,0 +1,9 @@
+center
+
+% Primarily designed by two people
+
+* Yakov Rekhter
+  BGP, CIDR, IPv4 Private Networks
+
+* Kirk Lougheed
+  Co-founded Cisco and Cisco iOS

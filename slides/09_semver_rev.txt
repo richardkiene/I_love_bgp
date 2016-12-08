@@ -1,0 +1,6 @@
+center
+
+% Changed something? Meh... rev the major version.
+
+* June 1989 BGP v1 (RFC 1105)
+
