@@ -2,14 +2,20 @@ center
 
 % Important definitions
 
-* AS_PATH:
+* AS: Autonomous System controlled by a single organization
 
-* LOCAL_PREF:
+* ORIGIN: BGP speaker which originates routing information
 
-* ORIGIN:
+* AS_PATH: AS_SET or AS_SEQUENCE defining the path which routing information was
+  learned
 
-* MULTI_EXIT_DISC:
+* NEXT_HOP: IP address of the router to use when sending traffic
 
-* iBGP:
+* MULTI_EXIT_DISC: Metric used to break a tie when all neighbors appear equal
 
-* eBGP:
+* LOCAL_PREF: Used in iBGP and eBGP confederations to express a prefered
+  external route.
+
+* iBGP: BGP connection between internal (same AS) peers
+
+* eBGP: BGP connection between external (different AS) peers
