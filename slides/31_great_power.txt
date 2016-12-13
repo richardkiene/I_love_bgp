@@ -3,3 +3,7 @@ center
 % With great power comes great responsibility
 
 * Accidental advertisements
+
+* Route table poisoning
+
+* Over centralized peers

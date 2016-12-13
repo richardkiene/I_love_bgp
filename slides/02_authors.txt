@@ -6,4 +6,4 @@ center
   BGP, CIDR, IPv4 Private Networks
 
 * Kirk Lougheed
-  Co-founded Cisco and Cisco iOS
+  BGP, Co-founded Cisco and Cisco iOS

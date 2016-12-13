@@ -5,5 +5,3 @@ center
 * Accidental advertisements
 
 * Route table poisoning
-
-* Over centralized peers
