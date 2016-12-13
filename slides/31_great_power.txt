@@ -6,4 +6,4 @@ center
 
 * Route table poisoning
 
-* Over centralized peers
+* Over-centralized peers
